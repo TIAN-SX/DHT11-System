@@ -15,9 +15,6 @@
 项目结构
 项目目录包含以下内容：
 
-bash
-复制
-编辑
 DHT11/
 │
 ├── DebugConfig      # 调试配置文件
@@ -32,6 +29,7 @@ DHT11/
 ├── Project.uvprojx  # Keil 项目文件
 ├── Project.uvoptx   # Keil 项目选项文件
 └── Project.uvguix*  # Keil IDE 的 GUI 设置文件（可选）
+
 重要文件：
 Project.uvprojx：Keil 的主要项目文件。
 
